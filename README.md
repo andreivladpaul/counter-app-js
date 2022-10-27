@@ -4,7 +4,7 @@
 <table>
 <tr>
 <td>
-  A simple counter web app that allow to count incrementing / decrementing or reset the counter using 3 buttons.
+  A simple counter web app that allows you to count incrementing / decrementing or reset the counter using 3 buttons.
 </td>
 </tr>
 </table>
