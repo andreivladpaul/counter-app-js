@@ -23,7 +23,7 @@ Want to contribute? If you have any suggestions contact me!
 - [HTML](https://www.w3schools.com/html/)
 - [CSS ](https://www.w3schools.com/Css/)
 
-## Team
+## Developer
 
 [Vlad Andrei] (https://github.com/andreivladpaul)  
 ---|---
