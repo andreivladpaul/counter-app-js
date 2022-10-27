@@ -26,6 +26,6 @@ Want to contribute? If you have any suggestions contact me!
 ## Developer
 
 [Vlad Andrei] (https://github.com/andreivladpaul)  
----|---
+
 
 
