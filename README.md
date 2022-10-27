@@ -25,7 +25,7 @@ Want to contribute? If you have any suggestions contact me!
 
 ## Team
 
-[![Vlad Andrei](https://github.com/andreivladpaul)  
+[Vlad Andrei] (https://github.com/andreivladpaul)  
 ---|---
 
 
