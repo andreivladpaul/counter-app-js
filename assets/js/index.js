@@ -1,6 +1,6 @@
 const container = document.getElementById("container");
 
-const increase = `
+const buttons = `
 <h1>Counter</h1>
 <p id="counter">0</p>
 <div id="btn-section">
@@ -10,7 +10,7 @@ const increase = `
 </div>
 
 `;
-container.innerHTML += increase;
+container.innerHTML += buttons;
 
 const btns = document.querySelectorAll(".buttonClass");
 const counter = document.getElementById("counter");
