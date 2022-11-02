@@ -11,7 +11,7 @@
 
 
 ## Site
-Here is a working live demo :  https://635ae337812f6a0dfe875b6d--magical-stroopwafel-a48c38.netlify.app/
+Here is a working live demo :  https://counter-app-jss.netlify.app/
 
 ### Development
 Want to contribute? If you have any suggestions contact me!
