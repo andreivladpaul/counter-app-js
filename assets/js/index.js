@@ -1,5 +1,19 @@
-const counter = document.getElementById("counter");
+const container = document.getElementById("container");
+
+const increase = `
+<h1>Counter</h1>
+<p id="counter">0</p>
+<div id="btn-section">
+    <button class="btn-increase buttonClass">Increase</button>
+    <button class="btn-reset buttonClass">Reset</button>
+    <button class="btn-decrease buttonClass">Decrease</button>
+</div>
+
+`;
+container.innerHTML += increase;
+
 const btns = document.querySelectorAll(".buttonClass");
+const counter = document.getElementById("counter");
 let count = 0;
 
 btns.forEach(btn => {
